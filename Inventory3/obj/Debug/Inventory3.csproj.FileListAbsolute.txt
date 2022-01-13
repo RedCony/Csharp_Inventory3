@@ -1,0 +1,14 @@
+D:\WorkSpace\dotnet\Inventory3\Inventory3\bin\Debug\Inventory3.exe.config
+D:\WorkSpace\dotnet\Inventory3\Inventory3\bin\Debug\Inventory3.exe
+D:\WorkSpace\dotnet\Inventory3\Inventory3\bin\Debug\Inventory3.pdb
+D:\WorkSpace\dotnet\Inventory3\Inventory3\obj\Debug\Inventory3.csproj.AssemblyReference.cache
+D:\WorkSpace\dotnet\Inventory3\Inventory3\obj\Debug\Inventory3.csproj.CoreCompileInputs.cache
+D:\WorkSpace\dotnet\Inventory3\Inventory3\obj\Debug\Inventory3.exe
+D:\WorkSpace\dotnet\Inventory3\Inventory3\obj\Debug\Inventory3.pdb
+D:\VisualStudio\workspace\Inventory3\Inventory3\bin\Debug\Inventory3.exe.config
+D:\VisualStudio\workspace\Inventory3\Inventory3\bin\Debug\Inventory3.exe
+D:\VisualStudio\workspace\Inventory3\Inventory3\bin\Debug\Inventory3.pdb
+D:\VisualStudio\workspace\Inventory3\Inventory3\obj\Debug\Inventory3.csproj.AssemblyReference.cache
+D:\VisualStudio\workspace\Inventory3\Inventory3\obj\Debug\Inventory3.csproj.CoreCompileInputs.cache
+D:\VisualStudio\workspace\Inventory3\Inventory3\obj\Debug\Inventory3.exe
+D:\VisualStudio\workspace\Inventory3\Inventory3\obj\Debug\Inventory3.pdb
